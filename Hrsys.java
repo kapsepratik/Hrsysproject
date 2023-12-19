@@ -90,7 +90,7 @@ public class ExploringHRSystemproject {
         }
     }
 
-    public static class Main {
+    public static class Hrsys{
         public static void main(String[] args) {
             ExploringHRSystemproject projectInstance = new ExploringHRSystemproject();
 
